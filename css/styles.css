@@ -137,16 +137,14 @@ body {
 
 .social-link {
   color: rgba(219, 203, 255, 0.45);
-  font-size: 1.25rem;
-  opacity: .75;
-  -webkit-transition: all 250ms ease-in-out;
-  transition: all 250ms ease-in-out;
+  font-size: 1.5rem;
+  -webkit-transition: color 250ms ease-in-out;
+  transition: color 250ms ease-in-out;
 }
 
 .social-link:hover,
 .social-link:focus {
   color: #dbcbff;
-  font-size: 1.5rem;
 }
 
 @media (min-width: 600px) {

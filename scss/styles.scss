@@ -102,15 +102,14 @@ body {
   
   .social-link {
     color: rgba(219,203,255,0.45);
-    font-size: 1.25rem;
-    opacity: .75;
-    transition: all 250ms ease-in-out;
+    font-size: 1.5rem;
+    transition: color 250ms ease-in-out;
   }
   
   .social-link:hover,
   .social-link:focus {
     color:#dbcbff;
-    font-size: 1.5rem;
+    
   }
   
    
